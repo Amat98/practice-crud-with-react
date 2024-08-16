@@ -1,0 +1,22 @@
+input {
+  border-bottom: solid #cfcfcf 2px;
+  transition: all ease-out 0.5s;
+}
+
+input:hover {
+  border-bottom: solid #f14e4e 2px;
+}
+
+.shadow-container {
+  transition: all ease 0.5s;
+}
+
+li {
+  border-bottom: solid #cfcfcf 2px;
+  transition: all ease-out 0.5s;
+}
+
+li:hover {
+  border-bottom: #f14e4e 2px solid;
+  background-color: rgb(238, 238, 238);
+}
